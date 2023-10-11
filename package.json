@@ -1,0 +1,27 @@
+{
+  "name": "p-cat",
+  "version": "1.0.0",
+  "description": "PCAT Photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TogayErdogan/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Erdogan Togay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TogayErdogan/PCAT/issues"
+  },
+  "homepage": "https://github.com/TogayErdogan/PCAT#readme",
+  "devDependencies": {
+    "prettier": "3.0.3"
+  }
+}
